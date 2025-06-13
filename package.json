@@ -1,0 +1,25 @@
+{
+    "name": "ecommerce-product-service",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/EcommerceCoZam/ecommerce-product-service.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/EcommerceCoZam/ecommerce-product-service.git/issues"
+    },
+    "homepage": "https://github.com/EcommerceCoZam/ecommerce-product-service.git#readme",
+    "devDependencies": {
+      "@semantic-release/changelog": "^6.0.3",
+      "@semantic-release/git": "^10.0.1",
+      "semantic-release": "^24.2.3"
+    }
+  }
